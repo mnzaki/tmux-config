@@ -4,3 +4,6 @@
 [submodule "plugins/tpm"]
 	path = plugins/tpm
 	url = https://github.com/tmux-plugins/tpm
+[submodule "plugins/tmux-scroll-copy-mode"]
+	path = plugins/tmux-scroll-copy-mode
+	url = https://git::@github.com/nhdaly/tmux-scroll-copy-mode
