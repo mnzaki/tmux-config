@@ -7,3 +7,9 @@
 [submodule "plugins/tmux-scroll-copy-mode"]
 	path = plugins/tmux-scroll-copy-mode
 	url = https://git::@github.com/nhdaly/tmux-scroll-copy-mode
+[submodule "plugins/tmux-sidebar"]
+	path = plugins/tmux-sidebar
+	url = https://git::@github.com/tmux-plugins/tmux-sidebar
+[submodule "plugins/tmux-resurrect"]
+	path = plugins/tmux-resurrect
+	url = https://git::@github.com/tmux-plugins/tmux-resurrect
