@@ -10,6 +10,6 @@
 [submodule "plugins/tmux-sidebar"]
 	path = plugins/tmux-sidebar
 	url = https://git::@github.com/tmux-plugins/tmux-sidebar
-[submodule "plugins/tmux-resurrect"]
-	path = plugins/tmux-resurrect
-	url = https://git::@github.com/tmux-plugins/tmux-resurrect
+[submodule "plugins/tmux-sessionator"]
+	path = plugins/tmux-sessionator
+	url = git@github.com:mnzaki/tmux-sessionator
